@@ -1,5 +1,5 @@
 # IMDB-Reviews-Sentiment-Analysis
-Binary Sentiment Analysis with ~ 88% accuracy &amp; 10 MB model size
+Binary Sentiment Analysis with ~ 88% accuracy &amp; ~ 11 MB model size
 
 ## IMDB-Reviews.rar :
 This data set downloaded from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
